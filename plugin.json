@@ -1,14 +1,8 @@
 {
-  "name": "RadiYo!",
-  "author": "Isiah Lloyd",
+  "name": "NTS Radio",
+  "author": "dylwww",
   "flags": [],
   "publish": {
-    "tags": [
-      "media",
-      "music",
-      "radio"
-    ],
-    "description": "Search and play music from internet radio stations while gaming",
-    "image": "https://raw.githubusercontent.com/isiah-lloyd/radiyo-steam-deck/main/images/screenshot.png"
+    "tags": ["radio", "music"]
   }
 }
