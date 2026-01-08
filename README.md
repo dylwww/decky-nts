@@ -6,7 +6,7 @@ This is a Decky Loader plugin that lets you stream **NTS 1** and **NTS 2** direc
 
 Built for SteamOS using HTML5 audio for maximum stability.
 
-<img src="https://i.imgur.com/Xoz7Sl2.png" width="250">
+<img src="https://i.imgur.com/NxQieDr.png" width="250">
 
 ---
 
