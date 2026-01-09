@@ -1,6 +1,6 @@
 # NTS Radio (Decky Plugin)
 
-🎧 **Listen to NTS Radio live on your Steam Deck.**
+🎧 **Listen to NTS Radio live on your Steam Deck or comparable SteamOS handheld**
 
 This is a Decky Loader plugin that lets you stream **NTS 1** and **NTS 2** directly from the Steam Deck sidebar, with live show metadata and artwork — no external players, no browser, no backend services.
 
