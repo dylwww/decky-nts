@@ -1,6 +1,9 @@
 {
   "name": "NTS Radio",
   "author": "dylwww",
+  "api_version": 1,
+  "description": "Listen to NTS Radio on Steam Deck.",
+  "image": "assets/icon.png",
   "flags": [],
   "publish": {
     "tags": ["radio", "music"]
